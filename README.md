@@ -13,4 +13,4 @@ Schematic Diagram: ![Captura de pantalla 2024-05-14 184231](https://github.com/C
 Package Device: ![Captura de pantalla 2024-05-14 184245](https://github.com/CHANCUCO/LIBRARY-ESP32-DEVKIT/assets/147283141/d83cd06b-b4a6-40d2-b468-aad8ba5acada)
 
 
-3D PCB Model:                 ![Captura de pantalla 2024-05-14 184257](https://github.com/CHANCUCO/LIBRARY-ESP32-DEVKIT/assets/147283141/ff29c7bc-5063-444a-b066-8ff28f59fae0)
+3D PCB Model: ![Captura de pantalla 2024-05-14 184257](https://github.com/CHANCUCO/LIBRARY-ESP32-DEVKIT/assets/147283141/ff29c7bc-5063-444a-b066-8ff28f59fae0)
