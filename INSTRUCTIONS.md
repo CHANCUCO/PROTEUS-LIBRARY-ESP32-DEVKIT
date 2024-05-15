@@ -5,6 +5,7 @@ To install this library:
   3. Copy all the files inside that folder.
   4. Go to the location where Proteus is installed.
   5. Find the folder named "LIBRARY" and paste the copied files there.
+     
 Then, to use the library in Proteus:
 
   1. Search for the component named "ESP32 DEVKIT CHANCUCO" in the Proteus component list.
