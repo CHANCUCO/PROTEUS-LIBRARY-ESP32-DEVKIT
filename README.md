@@ -1,7 +1,7 @@
 # LIBRARY-ESP32-DEVKIT
 This repository contains a library of the ESP32 DEVKIT for Proteus software. The library includes:
 
--Package for PCB design: Accurate and detailed components for designing printed circuit boards with the ESP32 DEVKIT 32pin.
+-Package for PCB design: Accurate and detailed components for designing printed circuit boards with the ESP32 DEVKIT 30pin.
 -Schematic diagram library: Elements for creating clear and functional electrical schematics.
 -3D visualization: Three-dimensional models of the ESP32 DEVKIT for precise visualization in design projects (Note: the 3D PCB design was not created by me, it was created by Gerry Stenz and can be found [here](https://grabcad.com/library/esp32-dev-kit-v1-1)).
 
